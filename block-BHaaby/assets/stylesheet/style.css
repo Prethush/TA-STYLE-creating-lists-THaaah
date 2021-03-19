@@ -81,7 +81,7 @@ h1,h2,h3,h4,h5,h6 {
 /* Container */ 
 
 .header {
-    padding: 35px 0;
+    padding: 25px 0;
     background-color: #F86338;
 }
 
@@ -98,7 +98,7 @@ h1,h2,h3,h4,h5,h6 {
 /* section-1 */
 
 .section1 {
-    padding: 35px 0;
+    padding: 45px 0;
 }
 
 .main-menu {
